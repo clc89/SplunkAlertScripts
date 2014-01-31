@@ -4,15 +4,15 @@ import sys, urllib, urllib2, json
 
 
 #Socketlabs api key
-apiKey = "s7A4ZzNy95PbJg63XwKx"
+apiKey = "API KEY GOES HERE"
 #Socketlabs server id
-serverID = "9651"
+serverID = "SERVER ID GOES HERE"
 
 #Email being sent to
-toEmail = "corey.conley@diebold.com"
+toEmail = "EMAIL GOES HERE"
 
 #Email being sent from.
-fromEmail = "SplunkAlerts@diebold.com"
+fromEmail = "SplunkAlerts@gmail.com"
 
 
 # Parameters passed in from the alert.
