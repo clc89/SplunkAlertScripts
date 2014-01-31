@@ -4,15 +4,15 @@ import sys, urllib, urllib2
 
 
 #Twilio account SID
-twilioID = "AC5c34481171314f4a5c7907f137eb4f10"
+twilioID = "ACCOUNT ID GOES HERE"
 #Auth Token
-twilioPW = "a3464ca38a05c4fae5cb55f25f8a481c"
+twilioPW = "AUTH TOKEN GOES HERE"
 
 #Number to send the SMS to
-toNumber = "+14196317771"
+toNumber = "TO NUMBER GOES HERE"
 
 #Number to send the SMS FROM 
-fromNumber = "+13305295389"
+fromNumber = "FROM NUMBER GOES HERE"
 
 alertText = "Splunk Alert:"
 
